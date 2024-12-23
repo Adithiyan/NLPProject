@@ -1,0 +1,16 @@
+Customer
+Product
+Subscription
+Recipe
+Customer Service
+Wishlist
+Order
+Price
+Popularity
+Barcode
+Delivery
+Time Slot
+Express Delivery
+Discount
+Delayed Delivery
+Canceled Delivery

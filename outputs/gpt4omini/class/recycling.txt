@@ -1,0 +1,22 @@
+User
+Account
+Zip Code
+Recycling Facility
+Donation Center
+Email
+Notification
+Map
+Location
+Pick-Up Time
+Waste Type
+Transaction History
+Employee
+API
+Reward
+Personal Information
+Dashboard
+Feedback
+Error Logs
+Stats
+Material Type
+Facility Representative

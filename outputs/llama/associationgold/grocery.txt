@@ -1,0 +1,25 @@
+(employee, schedule)
+
+(employee, payments)
+
+(employee, salary statement)
+
+(employee, working hours)
+
+(employee, contracts)
+
+(employee, certificates)
+
+(employee, complaint)
+
+(schedule, working hours)
+
+(payments, salary statement)
+
+(contracts, employee)
+
+(certificates, employee)
+
+(complaint, employee)
+
+(message, employee)

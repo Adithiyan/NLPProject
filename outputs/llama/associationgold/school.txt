@@ -1,0 +1,59 @@
+(student, guardian)
+
+(student, mentor)
+
+(student, teacher)
+
+(student, class)
+
+(student, timetable)
+
+(student, digital learning modules)
+
+(student, submission)
+
+(student, assignment)
+
+(student, behavior)
+
+(student, disciplinary actions)
+
+(student, grades)
+
+(teacher, class)
+
+(teacher, timetable)
+
+(teacher, digital learning modules)
+
+(teacher, assignment)
+
+(teacher, submission)
+
+(teacher, grades)
+
+(teacher, behavior)
+
+(teacher, disciplinary actions)
+
+(guardian, student)
+
+(guardian, message)
+
+(administrator, message)
+
+(administrator, student)
+
+(administrator, teacher)
+
+(administrator, guardian)
+
+(administrator, class)
+
+(administrator, timetable)
+
+(digital learning module, question)
+
+(digital learning module, answer)
+
+(digital learning module, material)

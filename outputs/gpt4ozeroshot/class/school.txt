@@ -1,0 +1,20 @@
+Student
+Guardian
+Teacher
+Administrator
+Mentor
+Class
+Account
+Message
+Notification
+Digital Learning Module 
+Submission
+Grade
+Behavioral Record
+Attendance Record
+Schedule
+File
+Statistics
+Absence Form
+Role
+Filter

@@ -1,0 +1,21 @@
+Order
+Product
+Customer
+Kitchen Employee
+Ticket Master
+Cashier
+Restaurant Owner
+Home Delivery Person
+Physical Ticket
+Order Status
+Payment
+Delivery Address
+Phone Number
+Special Request
+VAT
+Coupon
+Tip
+Account
+Inventory Item
+Schedule
+Order Type

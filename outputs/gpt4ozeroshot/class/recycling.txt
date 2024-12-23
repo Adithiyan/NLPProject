@@ -1,0 +1,25 @@
+User
+Admin
+Superuser
+Recycling Facility
+Recycling Facility Representative
+Map
+Recyclable Waste
+Schedule
+Dashboard
+Account
+Notification
+Feedback
+Stats
+Error Log
+Location
+Event
+Transaction History
+Security Configuration
+Facility Data
+Route Plan
+Email Integration
+Favorite Facility
+Rewards
+Material Type
+User Documentation

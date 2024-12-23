@@ -1,0 +1,16 @@
+Customer
+Account
+Newsletter
+Push Notification
+Password
+Product
+Recipe
+Shopping List
+Wishlist
+Order
+Payment
+Loyalty Card
+Delivery
+Store
+Employee
+Discount

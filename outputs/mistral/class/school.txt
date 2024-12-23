@@ -1,0 +1,20 @@
+Guardian 
+Student 
+Teacher
+Administrator 
+Message 
+Message Notification 
+DLM 
+DLM Page 
+DLM Submission
+DLM Grade
+DLM Progress
+Timetable 
+Schedule 
+Attendance 
+Grade
+Disciplinary Action 
+Class 
+Subject 
+Year
+Period 

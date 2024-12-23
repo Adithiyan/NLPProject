@@ -1,0 +1,25 @@
+(customer, wishlist)
+
+(customer, shopping list)
+
+(customer, order)
+
+(customer, loyalty card)
+
+(customer, store)
+
+(customer, special personal discounts)
+
+(customer, newsletter)
+
+(product, recipe)
+
+(product, store)
+
+(product, order)
+
+(store, delivery)
+
+(delivery, order)
+
+(recipe, products)

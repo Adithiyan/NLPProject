@@ -1,0 +1,6 @@
+User
+Event 
+Artist 
+Ticket 
+Favorited Event 
+Favorited Artist 

@@ -1,0 +1,22 @@
+User
+Recycling Facility
+Administrator
+Map
+Location
+Schedule
+Route
+Notification
+Feedback
+Complaint
+Dashboard
+Statistics
+Usage
+Database
+Employee
+Company
+Activity Fee
+Bill Statement
+Error Log
+Onboarding
+Security
+Rewards

@@ -1,0 +1,19 @@
+Moderator
+Estimator
+Participant
+Game
+Item
+Card
+Spreadsheet
+Estimate
+Estimate History
+Round
+Transcript
+URL
+Timer
+Account
+Notification
+Metrics
+Settings
+Export Format
+Privacy Configuration

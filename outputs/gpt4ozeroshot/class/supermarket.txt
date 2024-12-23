@@ -1,0 +1,22 @@
+Customer
+Employee
+Store
+Product
+Account
+Notification
+Loyalty Card
+Recipe
+Order
+Order History
+Shopping Cart
+Subscription
+Delivery Schedule
+Discount
+Product Availability
+Payment Information
+Preferences
+Wishlist
+Recommendations
+Dietary Filter
+Search
+Store Locator

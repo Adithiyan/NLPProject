@@ -1,0 +1,25 @@
+(user, feedback)
+
+(user, complaints)
+
+(user, questions)
+
+(user, recyclable waste)
+
+(user, schedule)
+
+(user, recycling facilities)
+
+(recycling facilities, safe disposal events)
+
+(employees, recycling facilities)
+
+(employees, user)
+
+(feedback, complaints)
+
+(questions, feedback)
+
+(schedule, recycling facilities)
+
+(recyclable waste, recycling facilities)

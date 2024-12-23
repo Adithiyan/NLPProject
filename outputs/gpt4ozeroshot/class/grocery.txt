@@ -1,0 +1,23 @@
+Employee
+Manager
+Applicant
+Office Employee
+Salary Statement
+Schedule
+Complaint
+Contract
+Certificate
+Message
+Payment
+Notification
+Work Hours
+Hiring Process
+Complaint Priority
+Complaint Status
+Employee Absence
+Account
+Annual Statement
+Personal Information
+Privacy and Security
+Complaint Category
+User Preferences

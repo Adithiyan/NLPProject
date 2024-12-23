@@ -1,0 +1,18 @@
+Customer
+Account
+Preferences
+Event
+Ticket
+Order History
+Shopping Cart
+Discount
+Wishlist
+Artist
+Venue
+Reseller
+Payment
+Search
+Price
+Service Fee
+Calendar View
+Social Media Link

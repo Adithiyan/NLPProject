@@ -1,0 +1,17 @@
+Guardian
+Teacher
+Student
+Administrative Staff
+Notification
+Absence
+LMS
+DLM
+Timetable
+Grade
+Attendance
+Class
+Schedule
+File
+Question
+Answer
+Message 

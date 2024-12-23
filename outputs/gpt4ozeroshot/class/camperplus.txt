@@ -1,0 +1,22 @@
+Camper
+Parent
+Staff Member
+Facility
+Nametag
+Consent Form
+Medical Form
+Registration Form
+Activity
+Group
+Rule
+Feedback
+Attendance Record
+Emergency Information
+Position
+Reminder
+Task
+Schedule
+Notification
+Account
+Payment Record
+Event Calendar

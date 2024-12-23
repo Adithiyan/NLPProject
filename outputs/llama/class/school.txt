@@ -1,0 +1,17 @@
+User
+Student
+Teacher
+Administrator
+Class
+Digital Learning Module (DLM)
+Assignment
+Submission
+Notification
+Message
+Timetable
+Schedule
+File
+Upload
+Period
+Subject
+Year

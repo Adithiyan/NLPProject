@@ -1,0 +1,29 @@
+(customer, membership)
+
+(customer, subscription)
+
+(customer, booking)
+
+(customer, payment)
+
+(customer, person)
+
+(trainer, lesson)
+
+(trainer, training session)
+
+(trainer, schedule)
+
+(lesson, schedule)
+
+(lesson, room)
+
+(room, spot)
+
+(booking, spot)
+
+(gym, room)
+
+(gym, trainer)
+
+(gym, customer)

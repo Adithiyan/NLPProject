@@ -1,0 +1,14 @@
+Employee
+Order
+Product
+Special Request
+Notification
+Ticket
+Payment
+Customer
+Type of Order
+Pickup Time
+Delivery Person
+VAT
+Tip Distribution
+Home Delivery

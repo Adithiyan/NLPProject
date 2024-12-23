@@ -1,0 +1,7 @@
+(game, estimators)
+(game, round)
+(round, item)
+(item, estimate)
+(estimators, estimate)
+(round, card)
+(estimate, card)

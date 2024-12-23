@@ -1,0 +1,29 @@
+(user, ticket)
+
+(user, event)
+
+(user, reseller)
+
+(user, payment)
+
+(artist, event)
+
+(artist, venue)
+
+(event, venue)
+
+(event, genre)
+
+(event, event type)
+
+(ticket, event)
+
+(ticket, reseller)
+
+(reseller, payment)
+
+(venue, event)
+
+(genre, event)
+
+(event type, event)

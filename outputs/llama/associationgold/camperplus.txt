@@ -1,0 +1,59 @@
+(camper, parentguardians)
+
+(camper, camp group)
+
+(camper, activities)
+
+(camper, schedules)
+
+(camper, attendance)
+
+(camper, forms)
+
+(parentguardians, camper)
+
+(parentguardians, payments)
+
+(parentguardians, feedback)
+
+(camp worker, camp group)
+
+(camp worker, activities)
+
+(camp worker, schedules)
+
+(camp worker, supplies)
+
+(counselor, camp group)
+
+(counselor, camper)
+
+(camp, facilities)
+
+(camp, rules)
+
+(camp, activities)
+
+(camp, schedules)
+
+(camp group, activities)
+
+(camp group, schedules)
+
+(camp group, camper)
+
+(activities, schedules)
+
+(schedules, camp group)
+
+(forms, camper)
+
+(forms, parentguardians)
+
+(payments, parentguardians)
+
+(feedback, parentguardians)
+
+(supplies, camp worker)
+
+(positions, camp worker)

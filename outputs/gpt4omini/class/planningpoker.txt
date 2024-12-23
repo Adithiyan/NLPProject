@@ -1,0 +1,18 @@
+Game
+Round
+Item
+Estimate
+Spreadsheet
+Transcript
+HTML File
+CSV File
+Account
+Password
+Timezone
+Estimator
+Participant
+Photo
+Definition
+Database Index
+Query
+Researcher

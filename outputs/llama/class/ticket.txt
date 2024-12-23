@@ -1,0 +1,15 @@
+User
+Account
+Event
+Ticket
+Order
+Payment Method
+Venue
+Genre
+Price
+Date
+Artist
+Bank Account
+Calendar
+Favorite Events
+Favorite Artists

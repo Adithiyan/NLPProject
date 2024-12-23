@@ -1,0 +1,30 @@
+User
+Guest
+Visitor
+Artist
+Event
+Venue
+Company
+Account
+Personal Preferences
+Ticket
+Reselling Ticket
+Order
+Shopping Cart
+Calendar View
+Search
+Filter
+Recommendation
+Survey
+Notification
+Artist Profile
+Order History
+Event Page
+Seat Map
+Payment Details
+Payment Methods
+Validation
+Service Fee
+Favorites
+Popular Events
+Digital Ticket Upload
