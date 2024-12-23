@@ -1,0 +1,20 @@
+Customer
+Trainer
+Admin
+Membership
+Subscription
+Personal Information
+Family Membership
+Booking
+Lesson
+Training Session
+Free Practice Area
+Notification
+Room
+Schedule
+Timeslot
+Payment Information
+Fine
+System
+Email
+Push Notification

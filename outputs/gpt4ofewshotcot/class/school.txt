@@ -1,0 +1,15 @@
+Message
+Notification
+Account
+Class
+Schedule
+DLM
+LMS
+Files
+Material
+Behavior
+Performance
+Grade
+Attendance
+Statistics
+Disciplinary Actions

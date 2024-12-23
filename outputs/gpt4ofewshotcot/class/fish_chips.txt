@@ -1,0 +1,18 @@
+Kitchen Employee
+Ticket Master
+Customer
+Cashier
+Restaurant Owner
+Home Delivery Person
+Order
+Product
+Ticket
+Address
+Status
+Notification
+Request
+Preparation
+VAT
+Inventory
+Payment
+Phone Number

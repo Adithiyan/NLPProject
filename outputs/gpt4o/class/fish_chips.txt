@@ -1,0 +1,11 @@
+Orders
+Products
+Status
+Special Requests
+Payment
+Physical Ticket
+Digital Ticket
+Types of Orders
+Sold Products
+Delivery Employees
+Prices

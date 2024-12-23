@@ -1,0 +1,19 @@
+(customer, subscription)
+
+(customer, lessons)
+
+(customer, training sessions)
+
+(customer, payment)
+
+(customer, membership)
+
+(customer, booking)
+
+(lessons, trainer)
+
+(lessons, rooms)
+
+(training sessions, trainer)
+
+(training sessions, rooms)

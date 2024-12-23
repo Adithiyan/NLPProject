@@ -1,0 +1,11 @@
+Account
+Notification
+Product
+Recipe
+Delivery
+Order
+Store
+Shopping List
+Wishlist
+Loyalty Card
+Digital Payment

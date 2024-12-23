@@ -1,0 +1,22 @@
+Customer  
+Account  
+Newsletter  
+Push Notification  
+Product  
+Recipe  
+Customer Service  
+Shopping List  
+Wishlist  
+Stock  
+Barcode  
+Product Information  
+Delivery Date  
+Delivery Time Slot  
+Order History  
+Previous Order  
+Payment  
+Store  
+Loyalty Card  
+Employee  
+Discount  
+Delivery Time  

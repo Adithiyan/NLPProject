@@ -1,0 +1,13 @@
+(employee, payments)
+
+(employee, schedule)
+
+(employee, message)
+
+(employee, contracts)
+
+(employee, certificates)
+
+(employee, complaint)
+
+(employee, working hours)

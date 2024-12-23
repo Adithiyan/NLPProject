@@ -1,0 +1,6 @@
+(orders, products)
+(orders, requests)
+(orders, payment)
+(orders, payment methods)
+(requests, products)
+(payment, payment methods)

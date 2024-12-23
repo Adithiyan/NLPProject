@@ -1,0 +1,23 @@
+Guardian
+Teacher
+Student
+Mentor
+Administrator
+Class
+Timetable
+Schedule
+Account
+Notification
+Message
+Digital Learning Module (DLM)
+Page
+Submission
+File
+Attendance
+Grade
+Behavior Record
+Disciplinary Action
+Performance Data
+Dashboard
+Statistics
+Absence Form

@@ -1,0 +1,19 @@
+User
+Admin
+Employee
+Recycling Facility
+Recyclable Waste
+Map
+Location
+Dashboard
+Profile
+Email
+Notification
+Schedule
+Feedback
+Website
+Error Log
+Reward
+Activity Fee
+Bill Statement
+Database

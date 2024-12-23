@@ -1,0 +1,17 @@
+User
+Visitor
+Reseller
+Artist
+Event
+Ticket
+Seat
+Venue
+Order
+Payment Method
+Genre
+Calendar
+Search Result
+Search Filter
+Service Fee
+Social Media Link
+Music Platform Link

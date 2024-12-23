@@ -1,0 +1,23 @@
+(guardian, student)
+
+(student, message)
+
+(student, digital learning modules)
+
+(student, timetable)
+
+(student, disciplinary actions)
+
+(student, grades)
+
+(teacher, message)
+
+(teacher, digital learning modules)
+
+(teacher, student)
+
+(teacher, disciplinary actions)
+
+(teacher, grades)
+
+(teacher, mentor)

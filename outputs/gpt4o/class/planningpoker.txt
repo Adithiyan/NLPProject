@@ -1,0 +1,14 @@
+Game
+Round
+Item
+Estimate
+Estimator
+Moderator
+Participant
+URL
+Card
+Timer
+Photo
+Metrics
+Results
+Account

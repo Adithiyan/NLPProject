@@ -1,0 +1,29 @@
+(camp worker, camper)
+
+(camp worker, activities)
+
+(camp worker, positions)
+
+(camp worker, rules)
+
+(camp worker, supplies)
+
+(camp worker, counselor)
+
+(camper, activities)
+
+(camper, parentguardians)
+
+(camper, camp group)
+
+(camper, attendance)
+
+(parentguardians, forms)
+
+(parentguardians, payments)
+
+(activities, camp group)
+
+(activities, facilities)
+
+(camp group, counselor)

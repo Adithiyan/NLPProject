@@ -1,0 +1,13 @@
+User
+Student
+Teacher
+Guardian
+Mentor
+Class
+Page
+File
+Assignment
+Schedule
+Notification
+Message
+Account
